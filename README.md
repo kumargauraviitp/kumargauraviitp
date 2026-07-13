@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Gaurav%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Full+Stack+Dev+%7C+AI+Engineer+%7C+Automation+Architect;Scalable+Apps+%E2%80%A2+Intelligent+Bots+%E2%80%A2+AI+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&random=false&width=550&height=45&lines=Full+Stack+Dev+%7C+AI+%7C+Automation" alt="Typing SVG" /></a>
 
 <br/>
 
