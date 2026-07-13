@@ -347,20 +347,6 @@ Worked on applying artificial intelligence techniques across multiple industry v
 
 <br/>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kumargauraviitp&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
