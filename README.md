@@ -333,8 +333,8 @@ Worked on applying artificial intelligence techniques across multiple industry v
 <div align="center">
 
 <a href="https://github.com/kumargauraviitp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumargauraviitp&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&ring_color=8B5CF6&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumargauraviitp&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kumargauraviitp&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&ring_color=8B5CF6&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kumargauraviitp&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
 </a>
 
 <br/><br/>
