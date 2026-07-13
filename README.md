@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Gaurav%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Architecting+Intelligent+Systems+%7C+Building+Production-Grade+AI;Full+Stack+Engineering+%7C+Multi-Agent+AI+Systems+%7C+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+Automation+Architect;Building+Scalable+Apps+%E2%80%A2+Intelligent+Bots+%E2%80%A2+Production+AI+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -98,18 +98,20 @@ philosophy: >
 
 <br/>
 
-## 🧠 AI / ML Expertise
+## 🧠 Core Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Explainable AI (XAI)** | ██████████ | SHAP, LIME, interpretable model pipelines for fraud detection |
-| **Multi-Agent Systems** | █████████░ | Orchestrating autonomous AI agents for complex analytical workflows |
-| **NLP & Conversational AI** | █████████░ | Real-time reasoning engines, client-facing AI agents with high accuracy |
-| **Risk Scoring & Analytics** | ██████████ | Real-time risk assessment, anomaly detection, insurance fraud scoring |
-| **AI Automation** | █████████░ | Telegram bot pipelines, WordPress automation, content distribution |
-| **Full Stack AI Integration** | ██████████ | End-to-end AI product engineering with FastAPI + Next.js |
+| **Full Stack Development** | ██████████ | Next.js, React, FastAPI, Node.js — end-to-end product engineering |
+| **AI & Machine Learning** | █████████░ | Explainable AI (XAI), multi-agent systems, real-time reasoning |
+| **Bot Engineering** | ██████████ | Telegram bots, automated pipelines, cross-platform integrations |
+| **Automation & DevOps** | █████████░ | CI/CD workflows, WordPress automation, content distribution bots |
+| **Backend & API Design** | ██████████ | RESTful APIs, FastAPI microservices, webhook architectures |
+| **Risk Scoring & Analytics** | █████████░ | Real-time fraud detection, anomaly scoring, insurance claim analysis |
+| **System Design** | █████████░ | Microservice ecosystems, async pipelines, scalable deployments |
+| **NLP & Conversational AI** | █████████░ | Client-facing AI agents, real-time reasoning, intent classification |
 
 </div>
 
