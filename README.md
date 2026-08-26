@@ -29,7 +29,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &np;About Me
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -285,7 +285,7 @@ Developed the **core Telegram bot** that serves as the backbone for the CoreConn
 
 <div align="center">
 
-### 🏢 AI Engineering Intern &nbsp;|&nbsp; Sri Sathya Sai Institute of Actuaries (SSSIA)
+### 🏢 AI Engineering Intern &np;|&np; Sri Sathya Sai Institute of Actuaries (SSSIA)
 *Powered by aiactuaries.org*
 
 </div>
@@ -418,9 +418,9 @@ open_to:
 <div align="center">
 
 <a href="mailto:gaurav_ua2504cdh70@iitp.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-&nbsp;
+&np;
 <a href="https://www.linkedin.com/in/gaurav-kumar-0b7560382"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
+&np;
 <a href="https://github.com/kumargauraviitp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
